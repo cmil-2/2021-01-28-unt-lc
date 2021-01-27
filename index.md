@@ -169,7 +169,6 @@ Modify the block below if there are any special requirements.
     Participants must have access to a computer with a
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
   {% endif %}
-  They should have a few specific software packages installed (listed <a href="#setup">below</a>).
 </p>
 
 {% comment %}
@@ -299,6 +298,8 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 
 <hr/>
 
+<h2 id="documents">Documents</h2>
+<p><a href="files/regex_reference.pdf">Regular Expressions Cheatsheet</a></p>
 
 {% comment %}
 SCHEDULE
