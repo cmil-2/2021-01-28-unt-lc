@@ -301,6 +301,8 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 <h2 id="documents">Documents</h2>
 <p><a href="files/regex_reference.pdf">Regular Expressions Cheatsheet</a></p>
 
+<hr/>
+
 {% comment %}
 SCHEDULE
 
