@@ -303,6 +303,10 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 <p><a href="files/regular_expressions_presentation.pdf">Regular Expressions Presentation (pdf)</a></p>
 <hr/>
 
+<h2 id="tools">Tools</h2>
+<p><a href="https://regex101.com/">Regular Expressions 101 (regex101.com)</a></p>
+<hr/>
+
 {% comment %}
 SCHEDULE
 
