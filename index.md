@@ -302,6 +302,7 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 <p><a href="files/regex_reference.pdf">Regular Expressions Cheatsheet</a></p>
 <p><a href="files/regular_expressions_presentation.pdf">Regular Expressions Presentation (pdf)</a></p>
 <p><a href="files/library_carpentry_slf_20210128.pdf">Library Carpentry Introduction / Jargon Busting exercise (pdf)</a></p>
+<p><a href="files/Library_Carpentry-A_Computational_Approach.pdf">Library Carpentry - A Computational Approach</a></p>
 <hr/>
 
 <h2 id="tools">Tools</h2>
